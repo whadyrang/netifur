@@ -44,10 +44,10 @@ charadex.sheet = {
 
     designTypes: ['전체', '공식 디자인 개체', '게스트 디자인 개체', '미사용 디자인권', '디자인권 개체'],
     statuses: ['전체', '귀속됨', '선물 가능', '재분양 가능', '재판매 가능', '무효화', '판매중'],
-    rarity: ['전체', 'Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary'],
-    species: ['전체', 'Normal Tiper', 'Chip Tiper', 'USB Tiper'],
+    rarity: ['전체', '일반형', '바이러스', '에러', '로딩'],
+    species: ['전체', 'Netifur'],
     itemTypes: ['전체', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc'],
-    traitTypes: ['전체', 'Ears', 'Eyes', 'Body', 'Limbs', 'Tails', 'Misc', 'Mutations']
+    traitTypes: ['전체', '눈', '신체', '장식', '홀로그램', '꼬리', '형태', '특수개조']
 
   }
 
