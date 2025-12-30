@@ -15,9 +15,9 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Test",
-  url: "https://letddo.github.io/Test/", // https://letddo.github.io/Test/
-  description: `A tool for organizing small ARPGs and species.`
+  title: "Netifur",
+  url: "https://whadyrang.github.io/netifur/", // https://whadyrang.github.io/netifur/
+  description: `넷티퍼 ARPG 사이트 입니다.`
 }
 
 /* ==================================================================== */
@@ -26,7 +26,7 @@ charadex.site = {
 /* ==================================================================== */
 charadex.sheet = {
 
-  id: "1YjbqDdOLMETABHY9u3e5FdKkQuP3uN6JAdrY1AhZs2c",
+  id: "1husqt4EcWvmSdiQwi5FL4S6uei6H4FdBCW3kE-p_dgg",
 
   pages: {
     masterlist:    "마스터리스트",
